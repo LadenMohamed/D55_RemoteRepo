@@ -3,6 +3,7 @@
 
 int main()
 {
+	PrintMyName();
 	PrintID();
 	return 0;
 }
