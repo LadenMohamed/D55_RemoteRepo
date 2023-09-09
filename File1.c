@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include "File1.h"
 
-void PrintMyName(void)
+void PrintID(void)
 {
-   printf("Laden Mohamed Mirghani");
+   printf("123");
 }
